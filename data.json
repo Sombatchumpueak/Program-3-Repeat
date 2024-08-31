@@ -1,0 +1,11 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "fullname": "Sombat Chumpueak",
+        "email": "Sombat@g.com",
+        "password": "Sombat",
+        "gender": "Male"
+      }
+    ]
+  }
